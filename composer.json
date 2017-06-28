@@ -1,5 +1,5 @@
 {
-  "name": "zmingzhi/aliyunsms",
+  "name": "zongphp/aliyunsms",
   "description": "使用阿里云短信平台发送短信，请先在阿里云开通短信服务后使用",
   "type": "project",
   "keywords": [
@@ -9,7 +9,7 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
-    "zmingzhi/config": "~1.0"
+    "zongphp/config": "~1.0"
   },
   "autoload": {
     "files": [],
