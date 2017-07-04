@@ -1,12 +1,12 @@
 {
   "name": "zongphp/aliyunsms",
-  "description": "使用阿里云短信平台发送短信，请先在阿里云开通短信服务后使用",
+  "description": "使用阿里云短信平台发送短信",
   "type": "project",
   "keywords": [
     "阿里云发送短信"
   ],
   "license": "MIT",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
     "zongphp/config": "~1.0"
